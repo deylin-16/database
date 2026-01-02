@@ -1,3 +1,11 @@
 {
-  "users": []
+  "users": [
+    {
+      "email": "6557.asesor@gmail.com",
+      "pass": "hhahwg",
+      "token": "dk_ulwnb416v4",
+      "limit": 100,
+      "used": 0
+    }
+  ]
 }
