@@ -1,3 +1,10 @@
 {
-  "users": []
+  "users": [
+    {
+      "email": "deylin1616@gmail.com",
+      "token": "dk_b7lqkcobd3",
+      "limit": 100,
+      "used": 0
+    }
+  ]
 }
