@@ -1,3 +1,10 @@
 {
-  "users": [ ]
+  "users": [
+    {
+      "email": "6557.asesor@gmail.com",
+      "token": "dk_pzdyzugq7n",
+      "limit": 100,
+      "used": 0
+    }
+  ]
 }
