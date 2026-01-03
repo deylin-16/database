@@ -6,6 +6,13 @@
       "token": "dk_ofical_user",
       "limit": 2999999,
       "used": 33
+    },
+    {
+      "email": "barbozasebastian408@gmail.com",
+      "pass": "sjbr2218",
+      "token": "dk_r1vdmmij",
+      "limit": 100,
+      "used": 0
     }
   ]
 }
