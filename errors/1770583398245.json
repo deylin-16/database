@@ -1,0 +1,6 @@
+{
+  "id": 1770583398245,
+  "timestamp": "8/2/2026, 2:43:17 p. m.",
+  "log": "TypeError: text.matchAll is not a function or its return value is not iterable\n    at conn.parseMention (file:///home/container/lib/serializer.js:113:49)\n    at conn.reply (file:///home/container/lib/serializer.js:109:95)\n    at m.reply (file:///home/container/lib/serializer.js:110:59)\n    at Object.run (file:///home/container/plugins/tools/sticker.js:38:15)\n    at async Object.message (file:///home/container/lib/message.js?update=1770583396110:111:13)\n    at async EventEmitter.<anonymous> (file:///home/container/index.js:135:13)",
+  "platform": "WhatsApp Bot"
+}
