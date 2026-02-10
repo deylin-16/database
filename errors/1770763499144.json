@@ -1,0 +1,6 @@
+{
+  "id": 1770763499144,
+  "timestamp": "10/2/2026, 4:44:58 p. m.",
+  "log": "ReferenceError: message is not defined\n    at Object.run (file:///home/container/plugins/tools/reduce.js:42:53)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async Object.message (file:///home/container/lib/message.js?update=1770763498534:91:13)\n    at async EventEmitter.<anonymous> (file:///home/container/index.js:156:13)",
+  "platform": "WhatsApp Bot"
+}
