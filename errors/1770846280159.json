@@ -1,6 +1,0 @@
-{
-  "id": 1770846280159,
-  "timestamp": "11/2/2026, 3:44:39 p. m.",
-  "log": "TypeError: uploadByBuffer is not a function\n    at Object.run (file:///home/container/plugins/tools/prueba.js:20:28)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async Object.message (file:///home/container/lib/message.js?update=1770846279018:103:13)\n    at async EventEmitter.<anonymous> (file:///home/container/index.js:173:13)",
-  "platform": "WhatsApp Bot"
-}
