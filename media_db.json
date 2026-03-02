@@ -152,5 +152,27 @@
       },
       "saved_at": "2026-03-02T01:51:04.195Z"
     }
+  },
+  "Wp-Rj1zUKiY": {
+    "audio_data": {
+      "raw": {
+        "url": "https://mmg.whatsapp.net/v/t62.7114-24/537103860_25904236822603139_6424134292881390214_n.enc?ccb=11-4&oh=01_Q5Aa3wGmVYLEC9zPsTdpvvVzJmXnZcr8QKZnm7AYPCTI8KlIng&oe=69CC583C&_nc_sid=5e03e0&mms3=true",
+        "fileSha256": "IFfvOD5vySZys4BLRck8E3tPyn+CzmV5orud8g9Y7Ko=",
+        "fileEncSha256": "0zmQ7+mxud30w5aWo4GDnUNtEWNznUUW/zqUtQ/9Ckg=",
+        "mediaKey": "Qlm8DvmTDr8do/ekMKxiqW7jEjMwkKP2fCKGWYYx+BE=",
+        "fileLength": {
+          "low": 1894892,
+          "high": 0,
+          "unsigned": true
+        },
+        "directPath": "/v/t62.7114-24/537103860_25904236822603139_6424134292881390214_n.enc?ccb=11-4&oh=01_Q5Aa3wGmVYLEC9zPsTdpvvVzJmXnZcr8QKZnm7AYPCTI8KlIng&oe=69CC583C&_nc_sid=5e03e0",
+        "mediaKeyTimestamp": {
+          "low": 1772420557,
+          "high": 0,
+          "unsigned": false
+        }
+      },
+      "saved_at": "2026-03-02T03:02:38.121Z"
+    }
   }
 }
