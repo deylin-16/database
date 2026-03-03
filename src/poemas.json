@@ -1,0 +1,704 @@
+{
+  "poemas_masivos": [
+    {
+      "id": "poe_001",
+      "titulo": "Rima XXI",
+      "texto": "¿Qué es poesía?, dices mientras clavas\nen mi pupila tu pupila azul.\n¿Qué es poesía? ¿Y tú me lo preguntas?\nPoesía... eres tú.",
+      "autor": "Gustavo Adolfo Bécquer",
+      "estilo": "Romántico"
+    },
+    {
+      "id": "poe_002",
+      "titulo": "Rima LIII",
+      "texto": "Volverán las oscuras golondrinas\nen tu balcón sus nidos a colgar,\ny otra vez con el ala a sus cristales\njugando llamarán.\nPero aquellas que el vuelo refrenaban\ntu hermosura y mi dicha a contemplar,\naquellas que aprendieron nuestros nombres...\nesas, no volverán.",
+      "autor": "Gustavo Adolfo Bécquer",
+      "estilo": "Romántico"
+    },
+    {
+      "id": "poe_003",
+      "titulo": "Rima XI",
+      "texto": "—Yo soy ardiente, yo soy morena,\nyo soy el símbolo de la pasión;\nde ansia de goces mi alma está llena.\n¿A mí me buscas?\n—No es a ti, no.",
+      "autor": "Gustavo Adolfo Bécquer",
+      "estilo": "Romántico"
+    },
+    {
+      "id": "poe_004",
+      "titulo": "Puedo escribir los versos",
+      "texto": "Puedo escribir los versos más tristes esta noche.\nEscribir, por ejemplo: 'La noche está estrellada,\ny tiritan, azules, los astros, a lo lejos.'\nEl viento de la noche gira en el cielo y canta.\nPuedo escribir los versos más tristes esta noche.\nYo la quise, y a veces ella también me quería.",
+      "autor": "Pablo Neruda",
+      "estilo": "Modernista"
+    },
+    {
+      "id": "poe_005",
+      "titulo": "Si tú me olvidas",
+      "texto": "Quiero que sepas una cosa.\nSi de pronto me olvidas\nno me busques,\npues ya te habré olvidado.",
+      "autor": "Pablo Neruda",
+      "estilo": "Modernista"
+    },
+    {
+      "id": "poe_006",
+      "titulo": "Te quiero",
+      "texto": "Te quiero tal como eres:\ncon tu manera de querer.\nCon tus silencios repentinos\ny tu manera de caer.",
+      "autor": "Pablo Neruda",
+      "estilo": "Modernista"
+    },
+    {
+      "id": "poe_007",
+      "titulo": "Romance Sonámbulo",
+      "texto": "Verde que te quiero verde.\nVerde viento. Verdes ramas.\nEl barco sobre la mar\ny el caballo en la montaña.\nCon la sombra en la cintura\nella sueña en su baranda,\nverde carne, pelo verde,\ncon ojos de fría plata.",
+      "autor": "Federico García Lorca",
+      "estilo": "Vanguardista"
+    },
+    {
+      "id": "poe_008",
+      "titulo": "La Aurora",
+      "texto": "La aurora de Nueva York tiene\ncuatro columnas de cieno\ny un huracán de negras palomas\nque chapotean las aguas podridas.\nLa aurora de Nueva York gime\npor las inmensas escaleras.",
+      "autor": "Federico García Lorca",
+      "estilo": "Vanguardista"
+    },
+    {
+      "id": "poe_009",
+      "titulo": "Gacela del amor imprevisto",
+      "texto": "Nadie comprendía el perfume\nde la oscura magnolia de tu vientre.\nNadie sabía que martirizabas\nun colibrí de amor entre los dientes.",
+      "autor": "Federico García Lorca",
+      "estilo": "Vanguardista"
+    },
+    {
+      "id": "poe_010",
+      "titulo": "Caminante son tus huellas",
+      "texto": "Caminante, son tus huellas\nel camino y nada más;\ncaminante, no hay camino,\nse hace camino al andar.\nAl andar se hace camino,\ny al volver la vista atrás\nse ve la senda que nunca\nse ha de volver a pisar.",
+      "autor": "Antonio Machado",
+      "estilo": "Modernista"
+    },
+    {
+      "id": "poe_011",
+      "titulo": "Retrato",
+      "texto": "Mi infancia son recuerdos de un patio de Sevilla\ny un huerto claro donde madura el limonero;\nmi juventud, veinte años en tierra de Castilla;\nmi historia, algunos casos que recordar no quiero.",
+      "autor": "Antonio Machado",
+      "estilo": "Modernista"
+    },
+    {
+      "id": "poe_012",
+      "titulo": "A un olmo seco",
+      "texto": "Al olmo viejo, hendido por el rayo\ny en su mitad podrido,\ncon las lluvias de abril y el sol de mayo\nalgunas hojas verdes le han salido.",
+      "autor": "Antonio Machado",
+      "estilo": "Modernista"
+    },
+    {
+      "id": "poe_013",
+      "titulo": "Hombres necios",
+      "texto": "Hombres necios que acusáis\na la mujer sin razón,\nsin ver que sois la ocasión\nde lo mismo que culpáis.",
+      "autor": "Sor Juana Inés de la Cruz",
+      "estilo": "Barroco"
+    },
+    {
+      "id": "poe_014",
+      "titulo": "En perseguirme, Mundo",
+      "texto": "En perseguirme, Mundo, ¿qué interesas?\n¿En qué te ofendo, cuando sólo intento\nponer bellezas en mi entendimiento\ny no mi entendimiento en las bellezas?",
+      "autor": "Sor Juana Inés de la Cruz",
+      "estilo": "Barroco"
+    },
+    {
+      "id": "poe_015",
+      "titulo": "Amor es más laberinto",
+      "texto": "Esta tarde, mi bien, cuando te hablaba,\ncomo en tu rostro y tus acciones vía\nque con palabras no te persuadía,\nque el corazón me vieses deseaba.",
+      "autor": "Sor Juana Inés de la Cruz",
+      "estilo": "Barroco"
+    },
+    {
+      "id": "poe_016",
+      "titulo": "Amor constante más allá de la muerte",
+      "texto": "Cerrar podrá mis ojos la postrera\nsombra que me llevare el blanco día,\ny podrá desatar esta alma mía\nhora a su afán ansioso lisonjera.",
+      "autor": "Francisco de Quevedo",
+      "estilo": "Barroco"
+    },
+    {
+      "id": "poe_017",
+      "titulo": "Es hielo abrasador",
+      "texto": "Es hielo abrasador, es fuego helado,\nes herida que duele y no se siente,\nes un soñado bien, un mal presente,\nes un breve descanso muy cansado.",
+      "autor": "Francisco de Quevedo",
+      "estilo": "Barroco"
+    },
+    {
+      "id": "poe_018",
+      "titulo": "Poderoso caballero",
+      "texto": "Madre, yo al oro me humillo,\nél es mi amante y mi amado,\npues de puro enamorado\nde continuo anda amarillo.",
+      "autor": "Francisco de Quevedo",
+      "estilo": "Barroco"
+    },
+    {
+      "id": "poe_019",
+      "titulo": "Sonatina",
+      "texto": "La princesa está triste... ¿qué tendrá la princesa?\nLos suspiros se escapan de su boca de fresa,\nque ha perdido la risa, que ha perdido el color.\nLa princesa está pálida en su silla de oro.",
+      "autor": "Rubén Darío",
+      "estilo": "Modernista"
+    },
+    {
+      "id": "poe_020",
+      "titulo": "Lo fatal",
+      "texto": "Dichoso el árbol, que es apenas sensitivo,\ny más la piedra dura porque esa ya no siente,\npues no hay dolor más grande que el dolor de ser vivo,\nni mayor pesadumbre que la vida consciente.",
+      "autor": "Rubén Darío",
+      "estilo": "Modernista"
+    },
+    {
+      "id": "poe_021",
+      "titulo": "Me gustas cuando callas",
+      "texto": "Me gustas cuando callas porque estás como ausente,\ny me oyes desde lejos, y mi voz no te toca.\nParece que los ojos se te hubieran volado\ny parece que un beso te cerrara la boca.",
+      "autor": "Pablo Neruda",
+      "estilo": "Modernista"
+    },
+    {
+      "id": "poe_022",
+      "titulo": "Oda a la tristeza",
+      "texto": "Tristeza, escarabajo\nde siete patas rotas,\nhuevo de telaraña,\nrata descalabrada,\nesqueleto de perra:\naquí no entras.",
+      "autor": "Pablo Neruda",
+      "estilo": "Modernista"
+    },
+    {
+      "id": "poe_023",
+      "titulo": "Explico algunas cosas",
+      "texto": "Preguntaréis: ¿y dónde están las lilas?\n¿y la metafísica cubierta de amapolas?\n¿y la lluvia que a menudo golpeaba\nsus palabras llenándolas\nde agujeros y pájaros?",
+      "autor": "Pablo Neruda",
+      "estilo": "Modernista"
+    },
+    {
+      "id": "poe_024",
+      "titulo": "Hoy me gusta la vida mucho menos",
+      "texto": "Hoy me gusta la vida mucho menos,\npero siempre me gusta vivir, ya lo decía.\nCasi toqué la parte de mi todo y me contuve\ncon un tiro en la lengua detrás de mi palabra.",
+      "autor": "César Vallejo",
+      "estilo": "Vanguardista"
+    },
+    {
+      "id": "poe_025",
+      "titulo": "Los heraldos negros",
+      "texto": "Hay golpes en la vida, tan fuertes... ¡Yo no sé!\nGolpes como del odio de Dios; como si ante ellos,\nla resaca de todo lo sufrido\nse empozara en el alma... ¡Yo no sé!",
+      "autor": "César Vallejo",
+      "estilo": "Vanguardista"
+    },
+    {
+      "id": "poe_026",
+      "titulo": "Piedra negra sobre piedra blanca",
+      "texto": "Me moriré en París con aguacero,\nun día del cual tengo ya el recuerdo.\nMe moriré en París —y no me corro—\ntalvez un jueves, como es hoy de otoño.",
+      "autor": "César Vallejo",
+      "estilo": "Vanguardista"
+    },
+    {
+      "id": "poe_027",
+      "titulo": "Masa",
+      "texto": "Al fin de la batalla,\ny muerto el combatiente, vino hacia él un hombre\ny le dijo: 'No mueras, te amo tanto!'\nPero el cadáver ¡ay! siguió muriendo.",
+      "autor": "César Vallejo",
+      "estilo": "Vanguardista"
+    },
+    {
+      "id": "poe_028",
+      "titulo": "No te salves",
+      "texto": "No te quedes inmóvil\nal borde del camino\nno congeles el júbilo\nno quieras con desgana\nno te salves ahora\nni nunca\nno te salves.",
+      "autor": "Mario Benedetti",
+      "estilo": "Contemporáneo"
+    },
+    {
+      "id": "poe_029",
+      "titulo": "Te quiero (Benedetti)",
+      "texto": "Tus manos son mi caricia\nmis acordes cotidianos\nte quiero porque tus manos\ntrabajan por la justicia.\nSi te quiero es porque sos\nmi amor mi cómplice y todo\ny en la calle codo a codo\nsomos mucho más que dos.",
+      "autor": "Mario Benedetti",
+      "estilo": "Contemporáneo"
+    },
+    {
+      "id": "poe_030",
+      "titulo": "Corazón coraza",
+      "texto": "Porque te tengo y no\nporque te pienso\nesta noche alcanzo\nlo que no alcanzaba\ny en ese mar que es nada\nme hundo y emerjo.",
+      "autor": "Mario Benedetti",
+      "estilo": "Contemporáneo"
+    },
+    {
+      "id": "poe_031",
+      "titulo": "El amor después del amor",
+      "texto": "Un día te amarás a ti mismo\ny te alegrarás de ser el ser que fuiste.\nVerás a tu propio ser en el espejo\ny sonreirás, que por fin llegaste.",
+      "autor": "Mario Benedetti",
+      "estilo": "Contemporáneo"
+    },
+    {
+      "id": "poe_032",
+      "titulo": "Táctica y estrategia",
+      "texto": "Mi táctica es mirarte\naprender cómo sos\nquerte como sos\nmi táctica es hablarte\ny escucharte\nconstruir con palabras\nun puente indestructible.",
+      "autor": "Mario Benedetti",
+      "estilo": "Contemporáneo"
+    },
+    {
+      "id": "poe_033",
+      "titulo": "Desapariciones",
+      "texto": "Cuando ya no estés\nte voy a inventar de nuevo.\nTe voy a inventar a pedazos:\nprimero los pies, fríos y largos.",
+      "autor": "Mario Benedetti",
+      "estilo": "Contemporáneo"
+    },
+    {
+      "id": "poe_034",
+      "titulo": "Hagamos un trato",
+      "texto": "Compañera\nusted sabe\nque puede contar conmigo\nno hasta dos\nni hasta diez\nsino contar conmigo.",
+      "autor": "Mario Benedetti",
+      "estilo": "Contemporáneo"
+    },
+    {
+      "id": "poe_035",
+      "titulo": "El olvidado",
+      "texto": "Te olvidé.\nY me alegré de haberte olvidado.\nDespués recordé que te había olvidado\ny eso fue suficiente para volver a extrañarte.",
+      "autor": "Anónimo",
+      "estilo": "Contemporáneo"
+    },
+    {
+      "id": "poe_036",
+      "titulo": "Canción del pirata",
+      "texto": "Con diez cañones por banda,\nviento en popa, a toda vela,\nno corta el mar, sino vuela\nun velero bergantín.",
+      "autor": "José de Espronceda",
+      "estilo": "Romántico"
+    },
+    {
+      "id": "poe_037",
+      "titulo": "A Margarita",
+      "texto": "Margarita, está linda la mar,\ny el viento\nleva esencia sutil de azahar;\nyo siento\nen el alma una alondra cantar:\ntu acento.",
+      "autor": "Rubén Darío",
+      "estilo": "Modernista"
+    },
+    {
+      "id": "poe_038",
+      "titulo": "Nocturno a Rosario",
+      "texto": "¡Pues bien! Yo necesito\ndecirte que te adoro,\ndecirte que te quiero\ncon todo el corazón.",
+      "autor": "Manuel Acuña",
+      "estilo": "Romántico"
+    },
+    {
+      "id": "poe_039",
+      "titulo": "Veinte poemas XIX",
+      "texto": "Niña morena y ágil, el sol que hace las frutas,\nel que cuaja los trigos, el que tuerce las algas,\nhizo tu cuerpo alegre, tus luminosos ojos\ny tu boca que tiene la sonrisa del agua.",
+      "autor": "Pablo Neruda",
+      "estilo": "Modernista"
+    },
+    {
+      "id": "poe_040",
+      "titulo": "Walking Around",
+      "texto": "Sucede que me canso de ser hombre.\nSucede que entro en las sastrerías y en los cines\nmarchito, impenetrable, como un cisne de fieltro\nnavegando en un agua de origen y ceniza.",
+      "autor": "Pablo Neruda",
+      "estilo": "Modernista"
+    },
+    {
+      "id": "poe_041",
+      "titulo": "La noche que me quieras",
+      "texto": "La noche que me quieras\ndesde el azul del cielo,\nlas estrellas celosas\nnos mirarán pasar.",
+      "autor": "Agustín Lara",
+      "estilo": "Romántico"
+    },
+    {
+      "id": "poe_042",
+      "titulo": "Dolor de ausencia",
+      "texto": "No es la ausencia lo que duele,\nes saber que sigues vivo\nen algún lugar del mundo\nsin necesitarme.",
+      "autor": "Anónimo",
+      "estilo": "Contemporáneo"
+    },
+    {
+      "id": "poe_043",
+      "titulo": "Desamor",
+      "texto": "El desamor no llega de golpe.\nLlega despacio, en silencio,\ncomo el frío que entra por las grietas\nsin que nadie abra la puerta.",
+      "autor": "Anónimo",
+      "estilo": "Contemporáneo"
+    },
+    {
+      "id": "poe_044",
+      "titulo": "Cuando ya no",
+      "texto": "Cuando ya no me busques\nyo estaré donde siempre estuve:\nen ese silencio tuyo\nque nunca supiste leer.",
+      "autor": "Anónimo",
+      "estilo": "Contemporáneo"
+    },
+    {
+      "id": "poe_045",
+      "titulo": "Ansiedad",
+      "texto": "La ansiedad es un mar sin orillas.\nNadas y nadas\ny el horizonte nunca se acerca.\nY te cansas de nadar\npero tampoco puedes hundirte.",
+      "autor": "Anónimo",
+      "estilo": "Contemporáneo"
+    },
+    {
+      "id": "poe_046",
+      "titulo": "Noche oscura del alma",
+      "texto": "En una noche oscura,\ncon ansias en amores inflamada,\n¡oh dichosa ventura!\nsalí sin ser notada,\nestando ya mi casa sosegada.",
+      "autor": "San Juan de la Cruz",
+      "estilo": "Clásico"
+    },
+    {
+      "id": "poe_047",
+      "titulo": "Llama de amor viva",
+      "texto": "¡Oh llama de amor viva\nque tiernamente hieres\nde mi alma en el más profundo centro!\npues ya no eres esquiva,\nacaba ya si quieres,\nrompe la tela de este dulce encuentro.",
+      "autor": "San Juan de la Cruz",
+      "estilo": "Clásico"
+    },
+    {
+      "id": "poe_048",
+      "titulo": "El poema que nunca escribí",
+      "texto": "Hay cosas que se quedan sin decir\ny se convierten en silencio.\nY el silencio se convierte en distancia.\nY la distancia en olvido.\nAsí termina todo.",
+      "autor": "Anónimo",
+      "estilo": "Contemporáneo"
+    },
+    {
+      "id": "poe_049",
+      "titulo": "Depresión en domingo",
+      "texto": "La tristeza tiene olor a domingo por la tarde.\nA cuarto vacío con luz amarilla.\nA mensajes que no llegan.\nA esperarte sin decirte que te espero.",
+      "autor": "Anónimo",
+      "estilo": "Contemporáneo"
+    },
+    {
+      "id": "poe_050",
+      "titulo": "Autorretrato",
+      "texto": "Soy el que no encuentra sus propias palabras,\nel que busca en caras ajenas su reflejo,\nel que se rompe en privado\ny sonríe en público.",
+      "autor": "Anónimo",
+      "estilo": "Contemporáneo"
+    },
+    {
+      "id": "poe_051",
+      "titulo": "Todo pasa",
+      "texto": "Todo pasa y todo queda,\npero lo nuestro es pasar,\npasar haciendo caminos,\ncaminos sobre la mar.",
+      "autor": "Antonio Machado",
+      "estilo": "Modernista"
+    },
+    {
+      "id": "poe_052",
+      "titulo": "Ayer soñé",
+      "texto": "Ayer soñé que veía\na Dios y que a Dios hablaba;\ny soñé que Dios me oía...\nDespués soñé que soñaba.",
+      "autor": "Antonio Machado",
+      "estilo": "Modernista"
+    },
+    {
+      "id": "poe_053",
+      "titulo": "La primavera besaba",
+      "texto": "La primavera besaba\nsuavemente la arboleda,\ny el verde nuevo brotaba\ncomo una verde humareda.",
+      "autor": "Antonio Machado",
+      "estilo": "Modernista"
+    },
+    {
+      "id": "poe_054",
+      "titulo": "Coplas por la muerte de su padre",
+      "texto": "Recuerde el alma dormida,\navive el seso y despierte\ncontemplando\ncómo se pasa la vida,\ncómo se viene la muerte\ntan callando.",
+      "autor": "Jorge Manrique",
+      "estilo": "Clásico"
+    },
+    {
+      "id": "poe_055",
+      "titulo": "Amor más poderoso que la muerte",
+      "texto": "Mientras por competir con tu cabello,\noro bruñido al sol relumbra en vano;\nmientras con menosprecio en medio el llano\nmira tu blanca frente al lilio bello.",
+      "autor": "Luis de Góngora",
+      "estilo": "Barroco"
+    },
+    {
+      "id": "poe_056",
+      "titulo": "Ándeme yo caliente",
+      "texto": "Ándeme yo caliente\ny ríase la gente.\nTroten otros el caballo\nen la guerra y en la lid;\nyo aquí me lo paso así.",
+      "autor": "Luis de Góngora",
+      "estilo": "Barroco"
+    },
+    {
+      "id": "poe_057",
+      "titulo": "Rima IV",
+      "texto": "No digáis que agotado su tesoro,\nde asuntos falta, enmudeció la lira;\npodrá no haber poetas; pero siempre\nhabrá poesía.",
+      "autor": "Gustavo Adolfo Bécquer",
+      "estilo": "Romántico"
+    },
+    {
+      "id": "poe_058",
+      "titulo": "Rima LXVI",
+      "texto": "¿De dónde vengo?... El más horrible y áspero\nde los senderos busca;\nlas huellas de unos pies ensangrentados\nsobre la roca dura.",
+      "autor": "Gustavo Adolfo Bécquer",
+      "estilo": "Romántico"
+    },
+    {
+      "id": "poe_059",
+      "titulo": "Rima LXXIII",
+      "texto": "Cerraron sus ojos\nque aún tenía abiertos,\ntaparon su cara\ncon un blanco lienzo.",
+      "autor": "Gustavo Adolfo Bécquer",
+      "estilo": "Romántico"
+    },
+    {
+      "id": "poe_060",
+      "titulo": "Sé que me van a dejar",
+      "texto": "Sé que me van a dejar,\nlo presiento en cómo me miras.\nComo quien mira una puerta\nantes de salir para siempre.",
+      "autor": "Anónimo",
+      "estilo": "Contemporáneo"
+    },
+    {
+      "id": "poe_061",
+      "titulo": "Herida sin nombre",
+      "texto": "Hay heridas que no sangran.\nQue no tienen nombre\nni cicatriz visible.\nSolo un cansancio\nque nadie comprende.",
+      "autor": "Anónimo",
+      "estilo": "Contemporáneo"
+    },
+    {
+      "id": "poe_062",
+      "titulo": "Final de algo",
+      "texto": "Y así termina todo:\nno con un grito\nsino con el sonido\nde dos personas\nque ya no tienen nada que decirse.",
+      "autor": "Anónimo",
+      "estilo": "Contemporáneo"
+    },
+    {
+      "id": "poe_063",
+      "titulo": "Gacela de la muerte oscura",
+      "texto": "Quiero dormir el sueño de las manzanas,\nalejarse del tumulto de los cementerios.\nQuiero dormir el sueño de aquel niño\nque quería cortarse el corazón en alta mar.",
+      "autor": "Federico García Lorca",
+      "estilo": "Vanguardista"
+    },
+    {
+      "id": "poe_064",
+      "titulo": "Llanto por Ignacio Sánchez Mejías",
+      "texto": "A las cinco de la tarde.\nEran las cinco en punto de la tarde.\nUn niño trajo la blanca sábana\na las cinco de la tarde.",
+      "autor": "Federico García Lorca",
+      "estilo": "Vanguardista"
+    },
+    {
+      "id": "poe_065",
+      "titulo": "Balada amarilla",
+      "texto": "Tengo miedo a perder la maravilla\nde tus ojos de estatua, y el acento\nque de noche me pone en la mejilla\nla solitaria rosa de tu aliento.",
+      "autor": "Federico García Lorca",
+      "estilo": "Vanguardista"
+    },
+    {
+      "id": "poe_066",
+      "titulo": "Amar es",
+      "texto": "Amar es entregarse\nolvidando lo propio,\nes querer lo que el otro\nnecesita aunque duela.",
+      "autor": "Anónimo",
+      "estilo": "Contemporáneo"
+    },
+    {
+      "id": "poe_067",
+      "titulo": "El tiempo todo lo cura",
+      "texto": "Dicen que el tiempo todo lo cura.\nPero nadie te dice\ncuánto duele\nmientras el tiempo pasa.",
+      "autor": "Anónimo",
+      "estilo": "Contemporáneo"
+    },
+    {
+      "id": "poe_068",
+      "titulo": "Cartas no enviadas",
+      "texto": "Escribí cien cartas que nunca te envié.\nEn todas te decía lo mismo:\nque te extrañaba sin querer extrañarte,\nque te amaba sin poder amarte.",
+      "autor": "Anónimo",
+      "estilo": "Contemporáneo"
+    },
+    {
+      "id": "poe_069",
+      "titulo": "Soledad sonora",
+      "texto": "Hay una soledad que grita.\nQue llena los cuartos\ny los empuja contra las paredes.\nEsa es la más difícil:\nla que no cabe en el silencio.",
+      "autor": "Anónimo",
+      "estilo": "Contemporáneo"
+    },
+    {
+      "id": "poe_070",
+      "titulo": "Para seguir",
+      "texto": "A veces basta con respirar.\nCon decirse: hoy no,\nhoy no me rindo,\nhoy me quedo\ny mañana veré.",
+      "autor": "Anónimo",
+      "estilo": "Contemporáneo"
+    },
+    {
+      "id": "poe_071",
+      "titulo": "Oda al amor",
+      "texto": "Amor, amor, hasta los huesos\nme llega y arde.\nSube como una enredadera\npor las paredes de mi alma.",
+      "autor": "Pablo Neruda",
+      "estilo": "Modernista"
+    },
+    {
+      "id": "poe_072",
+      "titulo": "Es tan corto el amor",
+      "texto": "Es tan corto el amor,\ny es tan largo el olvido.\nPorque en noches como esta la tuve entre mis brazos,\nmi alma no se contenta con haberla perdido.",
+      "autor": "Pablo Neruda",
+      "estilo": "Modernista"
+    },
+    {
+      "id": "poe_073",
+      "titulo": "Carta a una sombra",
+      "texto": "Te busco en el silencio de las noches\ny no te encuentro en ningún lado.\nSolo queda tu recuerdo\ncomo perfume en ropa abandonada.",
+      "autor": "Anónimo",
+      "estilo": "Contemporáneo"
+    },
+    {
+      "id": "poe_074",
+      "titulo": "Vivir duele",
+      "texto": "Nadie te advierte\nque vivir duele tanto.\nQue habrá días en que el mundo\npese más de lo que puedes cargar.",
+      "autor": "Anónimo",
+      "estilo": "Contemporáneo"
+    },
+    {
+      "id": "poe_075",
+      "titulo": "Tregua",
+      "texto": "Dame una tregua, corazón.\nUn día sin extrañar,\nsin recordar,\nsin revisar el teléfono\ncon la esperanza de que sea él.",
+      "autor": "Anónimo",
+      "estilo": "Contemporáneo"
+    },
+    {
+      "id": "poe_076",
+      "titulo": "Lo que no fue",
+      "texto": "Lo más doloroso no es lo que fue.\nEs lo que pudo haber sido\ny nunca fue.\nEsos futuros que imaginamos\ny que se murieron antes de nacer.",
+      "autor": "Anónimo",
+      "estilo": "Contemporáneo"
+    },
+    {
+      "id": "poe_077",
+      "titulo": "Soneto del amor oscuro",
+      "texto": "Noche arriba los dos con luna llena,\nyo me puse a llorar y tú reías.\nTu desdén era un dios, las quejas mías\nmomentos y palomas en cadena.",
+      "autor": "Federico García Lorca",
+      "estilo": "Vanguardista"
+    },
+    {
+      "id": "poe_078",
+      "titulo": "El poema de la ausencia",
+      "texto": "Tu ausencia llena el cuarto.\nOcupa tu lugar en la mesa,\ntu lado de la cama,\nel espacio donde estabas\ncuando todavía estabas.",
+      "autor": "Anónimo",
+      "estilo": "Contemporáneo"
+    },
+    {
+      "id": "poe_079",
+      "titulo": "Inventario",
+      "texto": "Me dejaste tu olor en la almohada,\ntus canciones en mi cabeza,\nlas palabras que nunca dijiste\ny el silencio que lo dijo todo.",
+      "autor": "Anónimo",
+      "estilo": "Contemporáneo"
+    },
+    {
+      "id": "poe_080",
+      "titulo": "Segundo intento",
+      "texto": "Cada mañana que despierto\nes un segundo intento.\nNo siempre tengo ganas.\nPero el día se va abriendo\ncomo una herida que sana.",
+      "autor": "Anónimo",
+      "estilo": "Contemporáneo"
+    },
+    {
+      "id": "poe_081",
+      "titulo": "Marcha triunfal",
+      "texto": "¡Ya viene el cortejo!\n¡Ya viene el cortejo! Ya se oyen los claros clarines.\nLa espada se anuncia con vivo reflejo;\nya viene, oro y hierro, el cortejo de los paladines.",
+      "autor": "Rubén Darío",
+      "estilo": "Modernista"
+    },
+    {
+      "id": "poe_082",
+      "titulo": "Nocturno",
+      "texto": "Quiero expresar mi vida\nen forma que por ella\npudiera el hombre conocer el amor\nde esta tierra que llevo en mí.",
+      "autor": "José Asunción Silva",
+      "estilo": "Modernista"
+    },
+    {
+      "id": "poe_083",
+      "titulo": "Hoy he madrugado",
+      "texto": "Hoy he madrugado para nada.\nMe levanté temprano,\nmuy temprano,\nsolo para darme cuenta\nde que el día tampoco tenía ganas.",
+      "autor": "Anónimo",
+      "estilo": "Contemporáneo"
+    },
+    {
+      "id": "poe_084",
+      "titulo": "Manifiesto del cansancio",
+      "texto": "Estoy cansado de sonreír cuando no quiero.\nDe decir que estoy bien cuando no estoy.\nDe fingir que no duele\nloque todo el mundo sabe que duele.",
+      "autor": "Anónimo",
+      "estilo": "Contemporáneo"
+    },
+    {
+      "id": "poe_085",
+      "titulo": "Otoño interior",
+      "texto": "Hay otoños que suceden dentro.\nSin que cambien las hojas ni el clima.\nSolo tú sabes que algo se cae.\nSolo tú oyes el crujido.",
+      "autor": "Anónimo",
+      "estilo": "Contemporáneo"
+    },
+    {
+      "id": "poe_086",
+      "titulo": "El primer amor",
+      "texto": "El primero amor duele diferente.\nNo porque sea el más profundo,\nsino porque es el único\npara el que no estabas preparado.",
+      "autor": "Anónimo",
+      "estilo": "Contemporáneo"
+    },
+    {
+      "id": "poe_087",
+      "titulo": "Amor y amistad",
+      "texto": "Yo no te pido que me quieras,\nni que me ames ni que te rías;\npide el juglar que lo escuches,\npide la noche que te duermas.",
+      "autor": "Amado Nervo",
+      "estilo": "Modernista"
+    },
+    {
+      "id": "poe_088",
+      "titulo": "En paz",
+      "texto": "Artifex vitae, artifex sui:\nen paz me pongo con la vida,\nla vida me ha dado todo\ny todo se lo he agradecido.",
+      "autor": "Amado Nervo",
+      "estilo": "Modernista"
+    },
+    {
+      "id": "poe_089",
+      "titulo": "El retorno imposible",
+      "texto": "Yo volveré, sí volveré,\na ver los campos de mi tierra,\npero entre tanto soy el viento\nque pasa sin dejar huella.",
+      "autor": "Anónimo",
+      "estilo": "Contemporáneo"
+    },
+    {
+      "id": "poe_090",
+      "titulo": "Despedida sin palabras",
+      "texto": "No me dijiste adiós.\nSolo fuiste apagando\ncada pequeña luz\nhasta que el cuarto quedó\ncompletamente oscuro.",
+      "autor": "Anónimo",
+      "estilo": "Contemporáneo"
+    },
+    {
+      "id": "poe_091",
+      "titulo": "Canción desesperada",
+      "texto": "Emerge tu recuerdo de la noche en que estoy.\nEl río anuda al mar su lamento obstinado.\nAbandonado como los muelles en el alba.\nEs la hora de partir, oh abandonado.",
+      "autor": "Pablo Neruda",
+      "estilo": "Modernista"
+    },
+    {
+      "id": "poe_092",
+      "titulo": "El miedo de quererte",
+      "texto": "Tengo miedo de quererte\ncomo tengo miedo a caerme:\nsabiendo que el suelo existe,\npero sin querer mirarlo.",
+      "autor": "Anónimo",
+      "estilo": "Contemporáneo"
+    },
+    {
+      "id": "poe_093",
+      "titulo": "Entre la luz y la sombra",
+      "texto": "No vivo ni en la luz ni en la sombra.\nVivo en ese espacio gris\ndonde el día no termina\ny la noche no comienza.",
+      "autor": "Anónimo",
+      "estilo": "Contemporáneo"
+    },
+    {
+      "id": "poe_094",
+      "titulo": "Queda prohibido",
+      "texto": "Queda prohibido llorar sin aprender,\nlevantarte un día sin saber qué hacer,\ntener miedo a tus recuerdos.\nSe permite ser feliz aunque no tengas motivo.",
+      "autor": "Pablo Neruda",
+      "estilo": "Modernista"
+    },
+    {
+      "id": "poe_095",
+      "titulo": "Eres tú",
+      "texto": "De todos los amores que he tenido,\nel tuyo fue el único\nque no tuve que explicarle a nadie.\nTodos entendieron por qué.",
+      "autor": "Anónimo",
+      "estilo": "Contemporáneo"
+    },
+    {
+      "id": "poe_096",
+      "titulo": "El amor verdadero",
+      "texto": "El amor verdadero no duele siempre.\nA veces solo es estar ahí,\nen silencio, sin preguntar,\ncomo el sol que calienta sin pedir nada.",
+      "autor": "Anónimo",
+      "estilo": "Contemporáneo"
+    },
+    {
+      "id": "poe_097",
+      "titulo": "Tristeza lúcida",
+      "texto": "La tristeza más extraña\nes la que llega sin razón.\nSin pérdida, sin traición,\nsolo un peso en el pecho\nque no sabe explicarse.",
+      "autor": "Anónimo",
+      "estilo": "Contemporáneo"
+    },
+    {
+      "id": "poe_098",
+      "titulo": "Sobrevivir",
+      "texto": "Sobreviví\nno porque fuera fuerte.\nSino porque no tuve\notro lugar a donde ir\nmás que hacia adelante.",
+      "autor": "Anónimo",
+      "estilo": "Contemporáneo"
+    },
+    {
+      "id": "poe_099",
+      "titulo": "Quizás mañana",
+      "texto": "Quizás mañana amanezca diferente.\nQuizás el café sepa a algo.\nQuizás una canción\nte haga querer seguir.\nEso es suficiente por hoy.",
+      "autor": "Anónimo",
+      "estilo": "Contemporáneo"
+    },
+    {
+      "id": "poe_100",
+      "titulo": "Para los que siguen",
+      "texto": "Este poema es para los que siguen\nsin saber muy bien por qué.\nPara los que no están bien\npero tampoco se rinden.\nPara los valientes sin nombre.",
+      "autor": "Anónimo",
+      "estilo": "Contemporáneo"
+    }
+  ]
+}
