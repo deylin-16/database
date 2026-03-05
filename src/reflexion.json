@@ -1,604 +1,302 @@
-{
-  "reflexiones_masivas": [
-    {
-      "id": "ref_001",
-      "categoria": "Estoicismo",
-      "texto": "No son las cosas mismas las que nos perturban,\nsino las opiniones que tenemos sobre ellas.",
-      "autor": "Epicteto"
-    },
-    {
-      "id": "ref_002",
-      "categoria": "Disciplina",
-      "texto": "La disciplina es el puente entre metas y logros.",
-      "autor": "Jim Rohn"
-    },
-    {
-      "id": "ref_003",
-      "categoria": "Negocios",
-      "texto": "El riesgo más grande es no tomar ninguno.\nEn un mundo que cambia rápido, la única estrategia que falla es no arriesgarse.",
-      "autor": "Mark Zuckerberg"
-    },
-    {
-      "id": "ref_004",
-      "categoria": "Mentalidad",
-      "texto": "Tu mente es un jardín.\nTus pensamientos son las semillas.\nPuedes cultivar flores o maleza.",
-      "autor": "Anónimo"
-    },
-    {
-      "id": "ref_005",
-      "categoria": "Relaciones",
-      "texto": "La calidad de tu vida depende directamente de la calidad de tus relaciones.",
-      "autor": "Tony Robbins"
-    },
-    {
-      "id": "ref_006",
-      "categoria": "Proverbios",
-      "texto": "El mejor momento para plantar un árbol fue hace 20 años.\nEl segundo mejor momento es ahora.",
-      "autor": "Proverbio chino"
-    },
-    {
-      "id": "ref_007",
-      "categoria": "Estrategia",
-      "texto": "En medio del caos, también hay oportunidad.",
-      "autor": "Sun Tzu"
-    },
-    {
-      "id": "ref_008",
-      "categoria": "Estoicismo",
-      "texto": "No esperes que los eventos ocurran como deseas.\nAcéptalos como ocurren, y todo irá bien.",
-      "autor": "Epicteto"
-    },
-    {
-      "id": "ref_009",
-      "categoria": "Disciplina",
-      "texto": "La diferencia entre lo que eres y lo que quieres ser\nestá en lo que haces cada día.",
-      "autor": "Anónimo"
-    },
-    {
-      "id": "ref_010",
-      "categoria": "Negocios",
-      "texto": "No interrumpas a tu enemigo cuando está cometiendo un error.",
-      "autor": "Napoleón Bonaparte"
-    },
-    {
-      "id": "ref_011",
-      "categoria": "Mentalidad",
-      "texto": "No puedes detener las olas, pero puedes aprender a surfear.",
-      "autor": "Jon Kabat-Zinn"
-    },
-    {
-      "id": "ref_012",
-      "categoria": "Relaciones",
-      "texto": "La gente olvidará lo que dijiste, olvidará lo que hiciste,\npero nunca olvidará cómo la hiciste sentir.",
-      "autor": "Maya Angelou"
-    },
-    {
-      "id": "ref_013",
-      "categoria": "Proverbios",
-      "texto": "El sabio no se sienta para lamentarse,\nsino que se levanta y actúa.",
-      "autor": "Proverbio árabe"
-    },
-    {
-      "id": "ref_014",
-      "categoria": "Estrategia",
-      "texto": "La victoria se obtiene en la preparación,\nno en el campo de batalla.",
-      "autor": "Sun Tzu"
-    },
-    {
-      "id": "ref_015",
-      "categoria": "Estoicismo",
-      "texto": "Si quieres mejorar, conténtate con parecer incompetente y necio en cosas externas.",
-      "autor": "Epicteto"
-    },
-    {
-      "id": "ref_016",
-      "categoria": "Disciplina",
-      "texto": "No bajamos al nivel de nuestras metas, sino al nivel de nuestros hábitos.",
-      "autor": "James Clear"
-    },
-    {
-      "id": "ref_017",
-      "categoria": "Negocios",
-      "texto": "El precio de algo no se mide en dinero, sino en el esfuerzo que hay que invertir para obtenerlo.",
-      "autor": "Jeff Bezos"
-    },
-    {
-      "id": "ref_018",
-      "categoria": "Mentalidad",
-      "texto": "La felicidad no es tener lo que quieres, sino querer lo que tienes.",
-      "autor": "Séneca"
-    },
-    {
-      "id": "ref_019",
-      "categoria": "Relaciones",
-      "texto": "Escucha con la intención de entender,\nno con la intención de responder.",
-      "autor": "Stephen Covey"
-    },
-    {
-      "id": "ref_020",
-      "categoria": "Proverbios",
-      "texto": "Si te apresuras, tropezarás incluso en terreno llano.",
-      "autor": "Proverbio japonés"
-    },
-    {
-      "id": "ref_021",
-      "categoria": "Estrategia",
-      "texto": "La mejor estrategia es la que se adapta al enemigo,\nno la que impone nuestras debilidades.",
-      "autor": "Miyamoto Musashi"
-    },
-    {
-      "id": "ref_022",
-      "categoria": "Estoicismo",
-      "texto": "El arte de vivir se parece más a la lucha que a la danza,\nporque hay que estar preparado para lo inesperado.",
-      "autor": "Marco Aurelio"
-    },
-    {
-      "id": "ref_023",
-      "categoria": "Disciplina",
-      "texto": "El dolor es temporal, pero el abandono dura para siempre.",
-      "autor": "Lance Armstrong"
-    },
-    {
-      "id": "ref_024",
-      "categoria": "Negocios",
-      "texto": "No temas renunciar a lo bueno para perseguir lo grandioso.",
-      "autor": "John D. Rockefeller"
-    },
-    {
-      "id": "ref_025",
-      "categoria": "Mentalidad",
-      "texto": "No puedes controlar el viento, pero puedes ajustar las velas.",
-      "autor": "Anónimo"
-    },
-    {
-      "id": "ref_026",
-      "categoria": "Relaciones",
-      "texto": "El mayor regalo que puedes dar a alguien es tu tiempo,\nporque es algo que no recuperarás.",
-      "autor": "Anónimo"
-    },
-    {
-      "id": "ref_027",
-      "categoria": "Proverbios",
-      "texto": "El que pregunta es tonto por cinco minutos,\nel que no pregunta es tonto para siempre.",
-      "autor": "Proverbio chino"
-    },
-    {
-      "id": "ref_028",
-      "categoria": "Estrategia",
-      "texto": "Si conoces al enemigo y te conoces a ti mismo,\nno temas el resultado de cien batallas.",
-      "autor": "Sun Tzu"
-    },
-    {
-      "id": "ref_029",
-      "categoria": "Estoicismo",
-      "texto": "No te preocupes por lo que otros piensen de ti.\nEllos están demasiado ocupados preocupándose por lo que tú piensas de ellos.",
-      "autor": "Epicteto (adaptado)"
-    },
-    {
-      "id": "ref_030",
-      "categoria": "Disciplina",
-      "texto": "El 1% de mejora diaria durante un año\nte hace 37 veces mejor.",
-      "autor": "James Clear"
-    },
-    {
-      "id": "ref_031",
-      "categoria": "Negocios",
-      "texto": "La oportunidad es como un amanecer:\nsi esperas demasiado, te la pierdes.",
-      "autor": "William Arthur Ward"
-    },
-    {
-      "id": "ref_032",
-      "categoria": "Mentalidad",
-      "texto": "No eres tus pensamientos, eres la conciencia que los observa.",
-      "autor": "Eckhart Tolle"
-    },
-    {
-      "id": "ref_033",
-      "categoria": "Relaciones",
-      "texto": "Las personas tóxicas te desafían, te estresan,\nte hacen cuestionar tu valor.\nAléjate, aunque duela.",
-      "autor": "Anónimo"
-    },
-    {
-      "id": "ref_034",
-      "categoria": "Proverbios",
-      "texto": "Incluso un viaje de mil millas comienza con un solo paso.",
-      "autor": "Lao Tzu"
-    },
-    {
-      "id": "ref_035",
-      "categoria": "Estrategia",
-      "texto": "A veces hay que moverse en silencio\npara que el ruido no opaque la visión.",
-      "autor": "Anónimo"
-    },
-    {
-      "id": "ref_036",
-      "categoria": "Estoicismo",
-      "texto": "La felicidad de tu vida depende de la calidad de tus pensamientos.",
-      "autor": "Marco Aurelio"
-    },
-    {
-      "id": "ref_037",
-      "categoria": "Disciplina",
-      "texto": "La constancia no es correr todos los días,\nsino levantarse cada vez que te caes.",
-      "autor": "Anónimo"
-    },
-    {
-      "id": "ref_038",
-      "categoria": "Negocios",
-      "texto": "El éxito no es la clave de la felicidad.\nLa felicidad es la clave del éxito.\nSi amas lo que haces, tendrás éxito.",
-      "autor": "Albert Schweitzer"
-    },
-    {
-      "id": "ref_039",
-      "categoria": "Mentalidad",
-      "texto": "La mente es como un paracaídas: solo funciona si se abre.",
-      "autor": "Albert Einstein"
-    },
-    {
-      "id": "ref_040",
-      "categoria": "Relaciones",
-      "texto": "No juzgues a alguien por cómo te trata,\nsino por cómo trata a quienes no pueden hacer nada por él.",
-      "autor": "Anónimo"
-    },
-    {
-      "id": "ref_041",
-      "categoria": "Proverbios",
-      "texto": "La cabra no da a luz a un león.",
-      "autor": "Proverbio árabe (sobre la herencia)"
-    },
-    {
-      "id": "ref_042",
-      "categoria": "Estrategia",
-      "texto": "La mejor victoria es la que se obtiene sin luchar.",
-      "autor": "Sun Tzu"
-    },
-    {
-      "id": "ref_043",
-      "categoria": "Estoicismo",
-      "texto": "No puedes evitar las olas, pero puedes aprender a navegar.",
-      "autor": "Anónimo (estoico)"
-    },
-    {
-      "id": "ref_044",
-      "categoria": "Disciplina",
-      "texto": "No es lo que hacemos de vez en cuando lo que da forma a nuestra vida,\nsino lo que hacemos consistentemente.",
-      "autor": "Tony Robbins"
-    },
-    {
-      "id": "ref_045",
-      "categoria": "Negocios",
-      "texto": "En los negocios, lo que no se mide no se puede mejorar.",
-      "autor": "Peter Drucker"
-    },
-    {
-      "id": "ref_046",
-      "categoria": "Mentalidad",
-      "texto": "Si crees que puedes, ya estás a medio camino.",
-      "autor": "Theodore Roosevelt"
-    },
-    {
-      "id": "ref_047",
-      "categoria": "Relaciones",
-      "texto": "La confianza se construye con gotas y se pierde en baldes.",
-      "autor": "Anónimo"
-    },
-    {
-      "id": "ref_048",
-      "categoria": "Proverbios",
-      "texto": "No hay viento favorable para el que no sabe a dónde va.",
-      "autor": "Séneca"
-    },
-    {
-      "id": "ref_049",
-      "categoria": "Estrategia",
-      "texto": "La paciencia es una estrategia, no una debilidad.",
-      "autor": "Anónimo"
-    },
-    {
-      "id": "ref_050",
-      "categoria": "Estoicismo",
-      "texto": "La muerte nos sonríe a todos; lo único que podemos hacer es sonreírle de vuelta.",
-      "autor": "Marco Aurelio"
-    },
-    {
-      "id": "ref_051",
-      "categoria": "Disciplina",
-      "texto": "No busques resultados rápidos; busca resultados duraderos.",
-      "autor": "Anónimo"
-    },
-    {
-      "id": "ref_052",
-      "categoria": "Negocios",
-      "texto": "El cliente más importante es el que tienes hoy, no el que tendrás mañana.",
-      "autor": "Sam Walton"
-    },
-    {
-      "id": "ref_053",
-      "categoria": "Mentalidad",
-      "texto": "El miedo es el asesino de los sueños.\nNo dejes que te paralice.",
-      "autor": "Anónimo"
-    },
-    {
-      "id": "ref_054",
-      "categoria": "Relaciones",
-      "texto": "Amar no es mirarse el uno al otro,\nes mirar juntos en la misma dirección.",
-      "autor": "Antoine de Saint-Exupéry"
-    },
-    {
-      "id": "ref_055",
-      "categoria": "Proverbios",
-      "texto": "El agua blanda, en movimiento, perfora la roca dura.",
-      "autor": "Proverbio chino"
-    },
-    {
-      "id": "ref_056",
-      "categoria": "Estrategia",
-      "texto": "Si quieres algo que nunca tuviste,\ndebes hacer algo que nunca hiciste.",
-      "autor": "Anónimo"
-    },
-    {
-      "id": "ref_057",
-      "categoria": "Estoicismo",
-      "texto": "El que sufre antes de lo necesario, sufre más de lo necesario.",
-      "autor": "Séneca"
-    },
-    {
-      "id": "ref_058",
-      "categoria": "Disciplina",
-      "texto": "El hábito es lo que te sostiene cuando la motivación se va.",
-      "autor": "Anónimo"
-    },
-    {
-      "id": "ref_059",
-      "categoria": "Negocios",
-      "texto": "No vendas un producto, vende una solución a un problema.",
-      "autor": "Anónimo"
-    },
-    {
-      "id": "ref_060",
-      "categoria": "Mentalidad",
-      "texto": "La gratitud transforma lo que tenemos en suficiente.",
-      "autor": "Anónimo"
-    },
-    {
-      "id": "ref_061",
-      "categoria": "Relaciones",
-      "texto": "No hay camino para la felicidad; la felicidad es el camino.",
-      "autor": "Buda"
-    },
-    {
-      "id": "ref_062",
-      "categoria": "Proverbios",
-      "texto": "El silencio es el grito más fuerte.",
-      "autor": "Proverbio japonés"
-    },
-    {
-      "id": "ref_063",
-      "categoria": "Estrategia",
-      "texto": "A veces hay que perder una batalla para ganar la guerra.",
-      "autor": "Anónimo"
-    },
-    {
-      "id": "ref_064",
-      "categoria": "Estoicismo",
-      "texto": "No es que tengamos poco tiempo, sino que perdemos mucho.",
-      "autor": "Séneca"
-    },
-    {
-      "id": "ref_065",
-      "categoria": "Disciplina",
-      "texto": "No te compares con los demás, compárate con quien eras ayer.",
-      "autor": "Anónimo"
-    },
-    {
-      "id": "ref_066",
-      "categoria": "Negocios",
-      "texto": "Si no estás avergonzado de tu primer producto, lo lanzaste demasiado tarde.",
-      "autor": "Reid Hoffman"
-    },
-    {
-      "id": "ref_067",
-      "categoria": "Mentalidad",
-      "texto": "La vida no se trata de encontrarse a uno mismo,\nsino de crearse a uno mismo.",
-      "autor": "George Bernard Shaw"
-    },
-    {
-      "id": "ref_068",
-      "categoria": "Relaciones",
-      "texto": "Las palabras pueden curar o destruir.\nElige sabiamente.",
-      "autor": "Anónimo"
-    },
-    {
-      "id": "ref_069",
-      "categoria": "Proverbios",
-      "texto": "Cuando el sabio señala la luna, el necio mira el dedo.",
-      "autor": "Proverbio chino"
-    },
-    {
-      "id": "ref_070",
-      "categoria": "Estrategia",
-      "texto": "El que todo lo quiere, todo lo pierde.",
-      "autor": "Anónimo"
-    },
-    {
-      "id": "ref_071",
-      "categoria": "Estoicismo",
-      "texto": "El infierno son los demás... cuando no te controlas a ti mismo.",
-      "autor": "Adaptado de Sartre"
-    },
-    {
-      "id": "ref_072",
-      "categoria": "Disciplina",
-      "texto": "La acción expresa prioridades.",
-      "autor": "Mahatma Gandhi"
-    },
-    {
-      "id": "ref_073",
-      "categoria": "Negocios",
-      "texto": "En la era digital, la reputación es tu activo más valioso.",
-      "autor": "Anónimo"
-    },
-    {
-      "id": "ref_074",
-      "categoria": "Mentalidad",
-      "texto": "No puedes cambiar el viento, pero puedes ajustar las velas.",
-      "autor": "Anónimo"
-    },
-    {
-      "id": "ref_075",
-      "categoria": "Relaciones",
-      "texto": "La empatía es la capacidad de ponerse en los zapatos del otro y sentir sus ampollas.",
-      "autor": "Anónimo"
-    },
-    {
-      "id": "ref_076",
-      "categoria": "Proverbios",
-      "texto": "El que teme sufrir, ya sufre el miedo.",
-      "autor": "Proverbio árabe"
-    },
-    {
-      "id": "ref_077",
-      "categoria": "Estrategia",
-      "texto": "No ataques al león si no tienes con qué defenderte.",
-      "autor": "Anónimo"
-    },
-    {
-      "id": "ref_078",
-      "categoria": "Estoicismo",
-      "texto": "La verdadera felicidad es disfrutar el presente sin dependencia ansiosa del futuro.",
-      "autor": "Séneca"
-    },
-    {
-      "id": "ref_079",
-      "categoria": "Disciplina",
-      "texto": "No esperes a estar motivado para empezar; empieza y la motivación llegará.",
-      "autor": "Anónimo"
-    },
-    {
-      "id": "ref_080",
-      "categoria": "Negocios",
-      "texto": "La innovación distingue al líder del seguidor.",
-      "autor": "Steve Jobs"
-    },
-    {
-      "id": "ref_081",
-      "categoria": "Mentalidad",
-      "texto": "No eres víctima de tus circunstancias, eres producto de tus decisiones.",
-      "autor": "Stephen Covey"
-    },
-    {
-      "id": "ref_082",
-      "categoria": "Relaciones",
-      "texto": "El respeto se gana, el amor se da, la confianza se construye.",
-      "autor": "Anónimo"
-    },
-    {
-      "id": "ref_083",
-      "categoria": "Proverbios",
-      "texto": "No escupas al cielo, porque te puede caer en la cara.",
-      "autor": "Proverbio español"
-    },
-    {
-      "id": "ref_084",
-      "categoria": "Estrategia",
-      "texto": "La mejor defensa es un ataque bien calculado.",
-      "autor": "Anónimo"
-    },
-    {
-      "id": "ref_085",
-      "categoria": "Estoicismo",
-      "texto": "No te aferres a lo que tienes, aferrate a lo que eres.",
-      "autor": "Epicteto"
-    },
-    {
-      "id": "ref_086",
-      "categoria": "Disciplina",
-      "texto": "El fracaso es el condimento que da sabor al éxito.",
-      "autor": "Truman Capote"
-    },
-    {
-      "id": "ref_087",
-      "categoria": "Negocios",
-      "texto": "No trabajes por dinero; haz que el dinero trabaje para ti.",
-      "autor": "Robert Kiyosaki"
-    },
-    {
-      "id": "ref_088",
-      "categoria": "Mentalidad",
-      "texto": "La mente que se abre a una nueva idea jamás vuelve a su tamaño original.",
-      "autor": "Albert Einstein"
-    },
-    {
-      "id": "ref_089",
-      "categoria": "Relaciones",
-      "texto": "La soledad no es la ausencia de compañía, sino la ausencia de propósito.",
-      "autor": "Anónimo"
-    },
-    {
-      "id": "ref_090",
-      "categoria": "Proverbios",
-      "texto": "El que siembra vientos, cosecha tempestades.",
-      "autor": "Proverbio bíblico"
-    },
-    {
-      "id": "ref_091",
-      "categoria": "Estrategia",
-      "texto": "A veces hay que retirarse para avanzar mejor.",
-      "autor": "Anónimo"
-    },
-    {
-      "id": "ref_092",
-      "categoria": "Estoicismo",
-      "texto": "No hay viento favorable para el que no sabe a dónde va.",
-      "autor": "Séneca"
-    },
-    {
-      "id": "ref_093",
-      "categoria": "Disciplina",
-      "texto": "La excelencia no es un acto, es un hábito.",
-      "autor": "Aristóteles"
-    },
-    {
-      "id": "ref_094",
-      "categoria": "Negocios",
-      "texto": "El dinero es un excelente sirviente, pero un pésimo amo.",
-      "autor": "P.T. Barnum"
-    },
-    {
-      "id": "ref_095",
-      "categoria": "Mentalidad",
-      "texto": "El optimismo es la fe que conduce al logro.",
-      "autor": "Helen Keller"
-    },
-    {
-      "id": "ref_096",
-      "categoria": "Relaciones",
-      "texto": "El que no valora lo que tiene, termina perdiéndolo.",
-      "autor": "Anónimo"
-    },
-    {
-      "id": "ref_097",
-      "categoria": "Proverbios",
-      "texto": "Más vale un hoy que dos mañanas.",
-      "autor": "Proverbio español"
-    },
-    {
-      "id": "ref_098",
-      "categoria": "Estrategia",
-      "texto": "La fortuna favorece a los audaces.",
-      "autor": "Virgilio"
-    },
-    {
-      "id": "ref_099",
-      "categoria": "Estoicismo",
-      "texto": "El que no puede vivir en sociedad, o es una bestia o un dios.",
-      "autor": "Aristóteles"
-    },
-    {
-      "id": "ref_100",
-      "categoria": "Disciplina",
-      "texto": "El éxito es la suma de pequeños esfuerzos repetidos día tras día.",
-      "autor": "Robert Collier"
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "tema": "Cosmos",
+    "titulo": "EL POLVO QUE SUEÑA",
+    "wa_format": "> _Somos una forma en que el cosmos se conoce a sí mismo._\n> *Nuestra carne es herencia de supernovas extintas*.\n> La inmensidad no nos anula, nos consagra como testigos del tiempo."
+  },
+  {
+    "id": 2,
+    "tema": "Resiliencia",
+    "titulo": "LA CIUDADELA INTERIOR",
+    "wa_format": "> _El dolor es un visitante, pero tú eres el anfitrión eterno._\n> *Lo que no depende de ti, no merece tu angustia*.\n> Cultiva tu luz mientras el caos danza fuera de tus muros."
+  },
+  {
+    "id": 3,
+    "tema": "Existencia",
+    "titulo": "EL MILAGRO DEL AZAR",
+    "wa_format": "> _Existir es ganar una lotería de billones de años_.\n> *Cada respiro es un tributo a la evolución selectiva*.\n> Eres el resultado de una cadena ininterrumpida de supervivencia."
+  },
+  {
+    "id": 4,
+    "tema": "Tiempo",
+    "titulo": "EL PARPADEA CÓSMICO",
+    "wa_format": "> _En el calendario del universo, tu vida dura un segundo_.\n> *No desperdicies tu chispa en sombras triviales*.\n> La brevedad de la vida es lo que le otorga su valor sagrado."
+  },
+  {
+    "id": 5,
+    "tema": "Conexión",
+    "titulo": "TEJIDO DE VIDA",
+    "wa_format": "> _No hay fronteras en el ADN que compartimos con el bosque_.\n> *Todos los seres son tus parientes en el árbol del tiempo*.\n> Reconócete en el otro y hallarás la paz que buscas."
+  },
+  {
+    "id": 6,
+    "tema": "Destino",
+    "titulo": "AMOR FATI",
+    "wa_format": "> _Acepta el fluir de los eventos como la rotación planetaria_.\n> *No desees que las cosas sean distintas, desea ser fuerte*.\n> Tu voluntad es el único timón real en el océano del caos."
+  },
+  {
+    "id": 7,
+    "tema": "Mente",
+    "titulo": "EL OBSERVADOR SILENCIOSO",
+    "wa_format": "> _Tus pensamientos son nubes, pero tú eres el cielo azul_.\n> *Deja que la tormenta pase sin manchar tu esencia*.\n> La serenidad nace de entender la impermanencia de la mente."
+  },
+  {
+    "id": 8,
+    "tema": "Cosmos",
+    "titulo": "PÁLIDO PUNTO AZUL",
+    "wa_format": "> _Toda la gloria y tragedia humana ocurre en un átomo de luz_.\n> *Nuestra soberbia se disuelve en el vacío intergaláctico*.\n> Seamos más amables los unos con los otros en este hogar."
+  },
+  {
+    "id": 9,
+    "tema": "Sufrimiento",
+    "titulo": "EL CRISOL DEL ALMA",
+    "wa_format": "> _El fuego que quema es el mismo que templa el acero_.\n> *No huyas del obstáculo, pues el obstáculo es el camino*.\n> Cada cicatriz es un mapa de una batalla ganada al destino."
+  },
+  {
+    "id": 10,
+    "tema": "Evolución",
+    "titulo": "LA HERENCIA CELESTIAL",
+    "wa_format": "> _Llevamos el hidrógeno del Big Bang en nuestras venas_.\n> *Tu origen es antiguo, tu presente es una oportunidad única*.\n> Honra a tus ancestros estelares viviendo con propósito."
+  },
+  {
+    "id": 11,
+    "tema": "Filosofía",
+    "titulo": "EL ARTE DE MORIR",
+    "wa_format": "> _La muerte no es un muro, es el horizonte de la materia_.\n> *Nada se pierde, solo se transforma en nuevas danzas*.\n> Quien aprende a morir, aprende a vivir sin cadenas."
+  },
+  {
+    "id": 12,
+    "tema": "Mística",
+    "titulo": "EL SILENCIO DEL VACÍO",
+    "wa_format": "> _En el vacío entre átomos reside la música del ser_.\n> *No busques fuera lo que ya palpita en tu centro*.\n> El universo no está fuera de ti, tú eres el universo."
+  },
+  {
+    "id": 13,
+    "tema": "Resiliencia",
+    "titulo": "EL ROBLE Y EL JUNCO",
+    "wa_format": "> _La rigidez se quiebra, la flexibilidad conquista el viento_.\n> *Adáptate a la realidad sin perder tu raíz interna*.\n> La verdadera fuerza es la que sabe cuándo fluir."
+  },
+  {
+    "id": 14,
+    "tema": "Cosmos",
+    "titulo": "SINCRONÍA ESTELAR",
+    "wa_format": "> _Las leyes que rigen las galaxias rigen tus células_.\n> *No eres un extraño en la naturaleza, eres su cumbre*.\n> Camina con la dignidad de quien sabe que pertenece al todo."
+  },
+  {
+    "id": 15,
+    "tema": "Existencia",
+    "titulo": "LA BREVE LUZ",
+    "wa_format": "> _Somos luciérnagas en una noche eterna y vasta_.\n> *Brilla con furia antes de volver al descanso mineral*.\n> Tu paso por aquí es pequeño, pero tu impacto es infinito."
+  },
+  {
+    "id": 16,
+    "tema": "Caos",
+    "titulo": "ORDEN EN EL DESORDEN",
+    "wa_format": "> _La entropía es la ley, pero la vida es la rebelión_.\n> *Crea belleza a partir de los fragmentos del mundo*.\n> Tu voluntad es la arquitectura que da forma al caos."
+  },
+  {
+    "id": 17,
+    "tema": "Mente",
+    "titulo": "EL TEMPLO DEL AHORA",
+    "wa_format": "> _El pasado es ceniza, el futuro es solo un espectro_.\n> *Solo este instante contiene la verdad de la vida*.\n> Habita tu cuerpo y tu tiempo con total presencia."
+  },
+  {
+    "id": 18,
+    "tema": "Dolor",
+    "titulo": "LA MEDICINA AMARGA",
+    "wa_format": "> _El sufrimiento señala donde hay una verdad por aprender_.\n> *No maldigas la herida, pues es por donde entra la luz*.\n> Transforma tu pena en la sabiduría del sabio."
+  },
+  {
+    "id": 19,
+    "tema": "Cosmos",
+    "titulo": "HEREDEROS DEL TIEMPO",
+    "wa_format": "> _Tardamos eones en llegar a este punto de conciencia_.\n> *No desperdicies tu intelecto en odios diminutos*.\n> Observa las estrellas y recuerda tu linaje divino."
+  },
+  {
+    "id": 20,
+    "tema": "Existencia",
+    "titulo": "EL ACTO DE SER",
+    "wa_format": "> _Nadie te debe nada, y eso es tu mayor libertad_.\n> *Tú eres el autor de tu propio significado interno*.\n> Define tu camino con la firmeza de un estoico."
+  },
+  {
+    "id": 21,
+    "tema": "Conexión",
+    "titulo": "ÁTOMOS COMPARTIDOS",
+    "wa_format": "> _Respiras el mismo aire que respiraron los césares_.\n> *La materia no se crea ni se destruye, solo se ama*.\n> Somos una sola entidad respirando en diferentes cuerpos."
+  },
+  {
+    "id": 22,
+    "tema": "Resiliencia",
+    "titulo": "EL INVIERNO DEL ALMA",
+    "wa_format": "> _Ninguna estación dura para siempre, tampoco tu pesar_.\n> *Prepara tu tierra bajo la nieve para la primavera*.\n> La paciencia es la forma más alta de coraje."
+  },
+  {
+    "id": 23,
+    "tema": "Cosmos",
+    "titulo": "LA DANZA GRAVITACIONAL",
+    "wa_format": "> _Todo en el universo está en constante movimiento_.\n> *No intentes detener lo que nació para cambiar*.\n> Fluye con la gravedad de tu destino sin resistencia."
+  },
+  {
+    "id": 24,
+    "tema": "Filosofía",
+    "titulo": "LA MENTE CLARA",
+    "wa_format": "> _Un juicio equivocado duele más que una flecha_.\n> *Limpia tu percepción para ver la realidad desnuda*.\n> La paz es el resultado de una mente sin ilusiones."
+  },
+  {
+    "id": 25,
+    "tema": "Mística",
+    "titulo": "EL CANTO DE LAS ESFERAS",
+    "wa_format": "> _Hay una armonía oculta detrás del ruido del mundo_.\n> *Aprende a escuchar el silencio entre los ruidos*.\n> Allí donde nada se dice, se comprende todo."
+  },
+  {
+    "id": 26,
+    "tema": "Destino",
+    "titulo": "EL TEJEDOR DE RUTAS",
+    "wa_format": "> _El azar pone las cartas, pero tú decides cómo jugar_.\n> *No culpes a los astros de tu falta de voluntad*.\n> Eres el arquitecto de tu respuesta ante la vida."
+  },
+  {
+    "id": 27,
+    "tema": "Vida",
+    "titulo": "LA CHISPA EFÍMERA",
+    "wa_format": "> _La vida es una anomalía hermosa en el vacío frío_.\n> *Celebra tu rareza con cada latido de tu pecho*.\n> Eres la excepción a la regla de la nada."
+  },
+  {
+    "id": 28,
+    "tema": "Tiempo",
+    "titulo": "EL ETERNO RETORNO",
+    "wa_format": "> _Todo lo que sube debe volver a la fuente original_.\n> *No temas al final, pues el final es solo un origen*.\n> El círculo del tiempo es perfecto en su geometría."
+  },
+  {
+    "id": 29,
+    "tema": "Resiliencia",
+    "titulo": "VOLUNTAD DE HIERRO",
+    "wa_format": "> _Que el mundo te golpee, pero que no te doblegue_.\n> *Tu centro es inexpugnable si tú así lo decides*.\n> Mantente firme como una roca ante la marea alta."
+  },
+  {
+    "id": 30,
+    "tema": "Cosmos",
+    "titulo": "EXPLORADORES DEL SER",
+    "wa_format": "> _Viajamos por el espacio en una nave de piedra y agua_.\n> *Nuestra curiosidad es la brújula de la especie*.\n> Nunca dejes de preguntarte el porqué de la luz."
+  },
+  {
+    "id": 31,
+    "tema": "Mente",
+    "titulo": "LA JAULA ABIERTA",
+    "wa_format": "> _Tus miedos son solo sombras proyectadas por tu ego_.\n> *Abre la puerta y camina hacia la verdad sin miedo*.\n> La libertad empieza cuando dejas de creerte tus mentiras."
+  },
+  {
+    "id": 32,
+    "tema": "Existencia",
+    "titulo": "EL VALOR DE LA NADA",
+    "wa_format": "> _Viniste sin nada, te irás sin nada; lo de en medio es juego_.\n> *No te apegues a lo que el tiempo te arrebatará*.\n> Posee solo lo que puedas llevar dentro de tu espíritu."
+  },
+  {
+    "id": 33,
+    "tema": "Conexión",
+    "titulo": "EL LATIDO UNIVERSAL",
+    "wa_format": "> _Tu corazón late al ritmo de las mareas y los astros_.\n> *No hay separación, solo la ilusión de la forma*.\n> Siéntete parte de la sinfonía de la creación entera."
+  },
+  {
+    "id": 34,
+    "tema": "Caos",
+    "titulo": "LA CALMA EN EL OJO",
+    "wa_format": "> _Afuera el mundo arde, adentro el sabio medita_.\n> *Busca el punto de quietud en medio del torbellino*.\n> Quien domina su centro, domina el universo entero."
+  },
+  {
+    "id": 35,
+    "tema": "Mística",
+    "titulo": "EL DESPERTAR",
+    "wa_format": "> _Has estado dormido en la cuna de la costumbre_.\n> *Despierta y mira el cosmos con ojos de niño*.\n> El asombro es la primera oración del verdadero buscador."
+  },
+  {
+    "id": 36,
+    "tema": "Dolor",
+    "titulo": "EL MAESTRO SEVERO",
+    "wa_format": "> _La angustia es el precio de la profundidad_.\n> *Agradécele al dolor por haberte quitado el velo*.\n> Ahora ves la vida como es, y no como deseabas."
+  },
+  {
+    "id": 37,
+    "tema": "Cosmos",
+    "titulo": "CATEDRALES DE LUZ",
+    "wa_format": "> _Las galaxias son templos donde el tiempo se dobla_.\n> *Eres un peregrino en un viaje de milenios*.\n> Tu destino es regresar a la luz de donde viniste."
+  },
+  {
+    "id": 38,
+    "tema": "Existencia",
+    "titulo": "EL PESO DEL SER",
+    "wa_format": "> _No busques ligereza, busca hombros más fuertes_.\n> *Carga con tu existencia con la nobleza de un rey*.\n> La responsabilidad es el combustible de la grandeza."
+  },
+  {
+    "id": 39,
+    "tema": "Vida",
+    "titulo": "FLUIR SIN FIN",
+    "wa_format": "> _El río no lucha contra las piedras, simplemente pasa_.\n> *Sé como el agua: adaptable, persistente y pura*.\n> La resistencia es la fuente de todo sufrimiento humano."
+  },
+  {
+    "id": 40,
+    "tema": "Tiempo",
+    "titulo": "EL RELOJ DE ARENA",
+    "wa_format": "> _Cada grano que cae es una oportunidad que se apaga_.\n> *Vive de tal forma que no temas al último grano*.\n> La eternidad se encuentra en la calidad del presente."
+  },
+  {
+    "id": 41,
+    "tema": "Mente",
+    "titulo": "EL ESPEJO DEL ALMA",
+    "wa_format": "> _Lo que ves en el mundo es lo que llevas dentro_.\n> *Si quieres paz afuera, cultiva orden en tu interior*.\n> El universo es el reflejo de tu estado mental."
+  },
+  {
+    "id": 42,
+    "tema": "Resiliencia",
+    "titulo": "FÉNIX DE CENIZA",
+    "wa_format": "> _Para renacer, primero debes permitirte arder_.\n> *No temas a la destrucción, es la antesala de la forma*.\n> De tus ruinas nacerá una estructura más gloriosa."
+  },
+  {
+    "id": 43,
+    "tema": "Cosmos",
+    "titulo": "LÍMITES INFINITOS",
+    "wa_format": "> _Tus ojos ven la luz que viajó millones de años_.\n> *Eres una ventana por la cual el universo se observa*.\n> Nunca digas que estás solo en esta inmensidad."
+  },
+  {
+    "id": 44,
+    "tema": "Filosofía",
+    "titulo": "RAZÓN Y PASIÓN",
+    "wa_format": "> _Que tu razón sea el jinete y tu pasión el caballo_.\n> *Sin orden eres salvaje, sin fuego estás muerto*.\n> Encuentra el equilibrio en la balanza de la vida."
+  },
+  {
+    "id": 45,
+    "tema": "Mística",
+    "titulo": "LA UNIÓN SAGRADA",
+    "wa_format": "> _Tú eres la gota y el océano al mismo tiempo_.\n> *Disuelve tu ego en la inmensidad del ser puro*.\n> Al final del camino, solo queda la unidad."
+  },
+  {
+    "id": 46,
+    "tema": "Destino",
+    "titulo": "HACEDOR DE LUZ",
+    "wa_format": "> _No esperes que el destino te sonría, sonríele tú_.\n> *Tu actitud es la única fuerza que dobla el hierro*.\n> Sé el sol de tu propio sistema existencial."
+  },
+  {
+    "id": 47,
+    "tema": "Vida",
+    "titulo": "EL SOPLO DIVINO",
+    "wa_format": "> _La materia se organizó para que tú pudieras amar_.\n> *Honra esa organización con actos de bondad*.\n> Cada gesto humano resuena en los confines del cosmos."
+  },
+  {
+    "id": 48,
+    "tema": "Dolor",
+    "titulo": "EL SILENCIO QUE CURA",
+    "wa_format": "> _No busques palabras para lo que solo el tiempo sana_.\n> *Refúgiate en la quietud de tu propio aliento*.\n> La paz no es ausencia de ruido, es orden interno."
+  },
+  {
+    "id": 49,
+    "tema": "Tiempo",
+    "titulo": "CRONOS DOMADO",
+    "wa_format": "> _No cuentes los días, haz que los días cuenten_.\n> *El tiempo es un recurso, no una carga pesada*.\n> Sé el dueño de tus horas y serás dueño de tu vida."
+  },
+  {
+    "id": 50,
+    "tema": "Cosmos",
+    "titulo": "EL FINAL Y EL PRINCIPIO",
+    "wa_format": "> _Las estrellas mueren para que los planetas nazcan_.\n> *Tu final será el abono para nuevas maravillas*.\n> En el ciclo infinito, nada muere, todo se expande."
+  }
+]
